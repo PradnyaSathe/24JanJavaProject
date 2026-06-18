@@ -1,7 +1,8 @@
 package accessSpecifiers;
 
-public class demo {
+public class Demo {
     static void main(String[] args) {
         System.out.println("hii");
     }
 }
+
